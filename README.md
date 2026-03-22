@@ -1,4 +1,4 @@
-# Adrián Gordo Prieto 👋
+# Adrián Gordo Prieto 
 
 Desarrollador de videojuegos, web y aplicaciones móviles.
 

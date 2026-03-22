@@ -32,7 +32,7 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 
 ### 🌟 [Music Clasification Audioset](https://github.com/agp96/Music-Classification-Audioset)
 
-> Desarrollo de una herramienta para el estudio de las emociones en la música de los videojuegos mediante Machine Learning.
+> Herramienta para el estudio de las emociones en la música de los videojuegos mediante Machine Learning.
 
 - 🎙️ Envíale un sonido de tu propio micrófono o .wav y obtén qué emoción produce
 - 🎵 Entrenamiento con miles de audios de videojuegos

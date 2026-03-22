@@ -51,7 +51,7 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 
 | Proyecto | Descripción | |
 |---|---|---|
-| [🌐 Portafolio](https://agp96.github.io/) | Mi carta de presentación como desarrollador | [ver código](https://github.com/agp96/agp96.github.io) |
+| [🌐 Portafolio](https://agp96.github.io/) | Mi carta de presentación como desarrollador | [Repositorio](https://github.com/agp96/agp96.github.io) |
 
 ---
 

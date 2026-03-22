@@ -54,7 +54,7 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 
 | Proyecto | Descripción | |
 |---|---|---|
-| [🐍 Web Bootstrap](https://agp96.github.io/) | Página web desarrollada con Bootstrap | [ver código](https://github.com/agp96/agp96.github.io) |
+| [🌐 Web Bootstrap](https://agp96.github.io/) | Página web desarrollada con Bootstrap | [ver código](https://github.com/agp96/agp96.github.io) |
 
 ---
 

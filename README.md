@@ -56,7 +56,9 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 ---
 
 ## 📊 Estadísticas
+
 <div align="center">
+  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agp96&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/agp96)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agp96&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/agp96)

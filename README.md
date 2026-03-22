@@ -40,7 +40,7 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 
 ---
 
-### 📱 [Videojuego CyberAdvanced](https://github.com/agp96/CyberAdvanced)
+### 🎮 [Videojuego CyberAdvanced](https://github.com/agp96/CyberAdvanced)
 
 > Videojuego de estrategia en el que guiaremos al científico McFry y a su mascota en misiones contra numerosos enemigos.
 

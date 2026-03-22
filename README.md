@@ -26,16 +26,19 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 
 > Desarrollo de una herramienta para el estudio de las emociones en la música de los videojuegos mediante Machine Learning.
 
-- 📱 Envíale un archivo .wav o de tu propio micrófono y obtén qué emoción produce
+- 🎙️ Envíale un sonido de tu propio micrófono o .wav y obtén qué emoción produce
 - 🎵 Entrenamiento con miles de audios de videojuegos
 - ⚙️ Desarrollo en Python
 
 ---
 
-### 📱 [Otro proyecto destacado](https://github.com/TuUsuario/otro-proyecto)
+### 📱 [Videojuego CyberAdvanced](https://github.com/agp96/CyberAdvanced)
 
-> Descripción breve del segundo proyecto más relevante.
-> · [Ver repositorio](https://github.com/agp96/CyberAdvanced)
+> Videojuego de estrategia en el que guiaremos al científico McFry y a su mascota en misiones contra numerosos enemigos.
+
+- 🎙️ Cuenta con la interfaz SpeechRecognizer para Android, la cuál permite el disfrute del juego mediante la voz.
+- 📱 Disponible en Android e iOS
+- ⚙️ Desarrollo en C++ mediante Cocos2d
 
 ---
 
@@ -49,11 +52,11 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 
 ## 📊 Estadísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/agp96)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agp96&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/agp96)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/agp96)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agp96&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/agp96)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TuUsuario&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=agp96&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 

@@ -23,6 +23,8 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Cocos2d](https://img.shields.io/badge/Cocos2d-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
 ![Autodesk 3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 

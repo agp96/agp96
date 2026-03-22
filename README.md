@@ -17,7 +17,7 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-4479A1?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 

@@ -20,7 +20,6 @@ Desarrollador de videojuegos, web y aplicaciones móviles.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Cocos2d](https://img.shields.io/badge/Cocos2d-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Autodesk 3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 

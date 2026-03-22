@@ -1,6 +1,6 @@
-# Tu Nombre 👋
+# Adrián Gordo Prieto 👋
 
-Desarrollador de software apasionado por crear soluciones elegantes y eficientes.
+Desarrollador de videojuegos, web y aplicaciones móviles.
 
 ---
 
